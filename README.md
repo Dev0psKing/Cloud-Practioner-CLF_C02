@@ -55,7 +55,7 @@ The new exam domains for the AWS Certified Cloud Practitioner (CLF-C02) test are
 
 [![AWS Certified Cloud Pracititioner CLF-C02 Exam Domains](https://td-mainsite-cdn.tutorialsdojo.com/wp-content/uploads/2023/06/aws-certified-cloud-practitioner-clf-c02-exam-guide-exam-topics-pdf-book-1200x899.png)](https://tutorialsdojo.com/new-aws-certified-cloud-practitioner-clf-c02-exam-version-in-2023/)
 
-Take note that note the Cloud Practitioner exam significantly increased its coverage in Security & Compliance domain. This seems to be the trend in the previously iterated AWS certification exam, where the security-related component of the test is increased. From 25%, the CLF-C02 exam now constitutes 30% of security-related topics.
+Take note that the Cloud Practitioner exam significantly increased its coverage in Security & Compliance domain. This seems to be the trend in the previously iterated AWS certification exam, where the security-related component of the test is increased. From 25%, the CLF-C02 exam now constitutes 30% of security-related topics.
 
 There are also 2 previous CLF-C01 exam domains that were renamed. The “Technology” domain is now called “Cloud Technology & Services” while “Billing and Pricing” has been modified to “Billing, Pricing and Support”
 
