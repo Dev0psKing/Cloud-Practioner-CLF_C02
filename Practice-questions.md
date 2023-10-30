@@ -1,5 +1,5 @@
 # PRACTICE QUESTION WITH ANSWERS
-![img.png](img.png)
+![img.png](assets/img.png)
 
 
 ## ⌛️ Short and to the point; why should you take the course:
