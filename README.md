@@ -22,23 +22,6 @@ resources to help candidates prepare for the certification, including a treasure
 This infrastructure extends to innovations such as _AWS Wavelength_ and _Local Zones_, making AWS a pioneer in 
 providing unique and high-performance services. AWS's commitment to staying at the forefront of technology is evident in the periodic refresh of the certification content, reflecting the ever-evolving landscape. As a testament to this, even the CTO of Amazon humorously quipped, 'It's basically your fault.'
 
-The certification explores the 'Well Architected Framework,' offering various 'lenses' with specific focuses. If 
-you're keen to delve into the serverless world, you'll find this particularly intriguing.
-
-Throughout your preparation, you'll encounter various AWS services and tools, such as _Inspector_ and _GuardDuty_, and 
-understand the distinctions between them. Additionally, _AWS Systems Manager_ and AWS Systems Manager's ability to 
-deploy operating system 
-and software patches across numerous EC2 instances is a critical skill for system administrators.
-
-The certification journey also introduces you to _AWS Control Tower_, which enables centralized governance and 
-enforcement of best practices across all your AWS accounts. AWS even provides a _Pricing Calculator_ to help you 
-estimate workload costs by region, ensuring cost-efficiency.
-
-Lastly, the _AWS Personal Health Dashboard_ is an important tool for monitoring AWS health. The Personal Health Dashboard plays a pivotal role in monitoring your AWS environment by alerting you to 
-events that might impact it. In conclusion, the AWS Cloud Practitioner Certification is a gateway to a world of cloud knowledge, and these notes are your compass to navigate it effectively."
-
-This repository contains various resources to help pass the AWS Cloud Practitioner Certification. The goal is to get certified in 2 weeks of effort or less.
-
 
 # AWS Certified Cloud Practitioner Exam CLF-C02
 This contains all the relevant information on the new AWS Certified Cloud Practitioner CLF-C02 exam
