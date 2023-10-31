@@ -2,7 +2,8 @@
 
 Good Luck with the AWS Cloud Practitioner Certification Exam! 
 
-I passed the AWS CCP on October 20, 2023, with 14 days of review and without spending any money other than the exam 
+I passed the AWS CCP on October 20, 2023, with few days of review and without spending any money other than 
+the exam 
 cost. I 
 developed these notes for those who are trying to get into Cloud. If you're on github and looking for this type of content - that's great!
 
