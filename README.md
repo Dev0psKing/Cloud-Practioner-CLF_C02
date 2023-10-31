@@ -1,4 +1,4 @@
-# Are you looking to achieve AWS Certification in just 2 weeks? If the answer is yes, then this repository is tailor-made for you!
+# Are you looking to achieve AWS Certification in just 2 weeks or less? If the answer is yes, then this repository is tailor-made for you!
 
 Good Luck with the AWS Cloud Practitioner Certification Exam! 
 
