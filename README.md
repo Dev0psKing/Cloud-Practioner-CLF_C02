@@ -19,13 +19,8 @@ while simultaneously reducing Total Cost of Ownership (TCO) through multi-tenanc
 resources to help candidates prepare for the certification, including a treasure trove of whitepapers. Notably, the 
 'AWS Services Overview' whitepaper spans about 100 pages and provides a comprehensive insight into AWS's global infrastructure.
 
-This infrastructure extends to innovations such as _AWS Wavelength_ and _Local Zones_, making AWS a pioneer in 
-providing unique and high-performance services. AWS's commitment to staying at the forefront of technology is evident in the periodic refresh of the certification content, reflecting the ever-evolving landscape. As a testament to this, even the CTO of Amazon humorously quipped, 'It's basically your fault.'
-
-
 # AWS Certified Cloud Practitioner Exam CLF-C02
 This contains all the relevant information on the new AWS Certified Cloud Practitioner CLF-C02 exam
-
 
 # CLF-C02 Exam Domains for AWS Certified Cloud Practitioner
 The new exam domains for the AWS Certified Cloud Practitioner (CLF-C02) test are as follows:
