@@ -11,7 +11,7 @@ developed these notes for those who are trying to get into Cloud. If you're on g
 These are great certification preparation notes for the AWS Cloud Practitioner Certification CLF-C02 in 2023. 
 However, to make the text more engaging and informative, let's rephrase and structure it:
 
-"The AWS Cloud Practitioner Certification (CLF-C02) is a valuable accreditation for anyone looking to gain 
+The AWS Cloud Practitioner Certification (CLF-C02) is a valuable accreditation for anyone looking to gain 
 comprehensive knowledge about the multitude of AWS offerings. AWS boasts a staggering array of over 200 fully-featured services that cater to a wide spectrum of technologies, industries, and use cases. This diversity makes it an indispensable component of any organization's digital transformation journey.
 
 
