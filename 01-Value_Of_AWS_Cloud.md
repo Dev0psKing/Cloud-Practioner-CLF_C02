@@ -86,6 +86,6 @@ The AWS Well-Architected Framework offers guidance for building robust, efficien
 
 6. **Sustainability**: Understand your environmental impact, set sustainability goals, maximize resource utilization, leverage managed services, and reduce downstream impact. EC2 Auto-scaling can help optimize resource usage.
 
-[For more details, visit AWS Cloud Essentials](https://aws.amazon.com/getting-started/cloud-essentials/)
+
 
 [Your journey into AWS continues to the next section](./05-AWS_Core_Services.md)
