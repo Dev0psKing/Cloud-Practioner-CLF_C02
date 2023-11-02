@@ -2,7 +2,7 @@
 ![img.png](assets/img.png)
 
 
-## ⌛️ Short and to the point; why should you take the course:
+## ⌛️ Services Covered
 
 
    - Access Control;
