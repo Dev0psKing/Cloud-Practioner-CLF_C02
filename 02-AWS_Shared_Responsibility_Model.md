@@ -1,36 +1,48 @@
 # AWS Shared Responsibility Model
 
-### "AWS has the responsibilty OF the cloud. Customer has the responsibility IN the cloud."
+![AWS Shared Responsibility Model](https://d1.awsstatic.com/security-center/Shared_Responsibility_Model_V2.59d1eccec334b366627e9295b304202faf7b899b.jpg)
 
-<img src="https://d1.awsstatic.com/security-center/Shared_Responsibility_Model_V2.59d1eccec334b366627e9295b304202faf7b899b.jpg" width="800px">
-Source: https://aws.amazon.com/compliance/shared-responsibility-model/
+Source: [AWS Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/)
 
-As a customer of AWS - you are not responsible for the hardware, software, networking, and facilities that run AWS Cloud services across its regions, AZs,  data centers and edge locations.
+As an AWS customer, understanding the shared responsibility model is essential. AWS and its customers have distinct roles in ensuring the security and compliance of the cloud environment:
 
-Depending on the Cloud Model - AWS and it's customer share responsibilities for different layers. However, the customer is Never responsible for the virtualization or the underlying physical infrastructure.
+**AWS has the responsibility of the cloud. The customer has responsibilities within the cloud.**
 
-1. Inherited Controls (AWS only)
-    * Controls which a customer fully inherits from AWS.
-    * Physical and Environmental controls
-1. Shared Controls (AWS and Customer)
-    * Patch Management
-    * Configuration Management
-    * Awareness & Training
-1. Customer Controls (Customer only)
-    * Service and Communications Protection
-    * Zone Security
-        * which may require a customer to route or zone data within specific security environments.
+## AWS Responsibilities
+As an AWS customer, you are not responsible for the hardware, software, networking, and facilities that support AWS Cloud services across its regions, availability zones (AZs), data centers, and edge locations. AWS shoulders the following key responsibilities:
 
-<img src="https://img.alicdn.com/tfs/TB1WyglO7voK1RjSZFwXXciCFXa-2305-1450.png" width="800px">
+1. **Inherited Controls (AWS only):**
+    - These are controls fully inherited from AWS, including physical and environmental controls.
 
+2. **Shared Controls (AWS and Customer):**
+    - Responsibilities shared between AWS and the customer include patch management, configuration management, awareness, and training.
 
-AWS is responsible for protecting and securing their infrastructure like whatever is in their data centers. Physical security of AWS data center. AWS maintains UPS, CRAC, fire suppression systems and more. AWS is responisble for any managed service and underlying software, operating system.
+3. **Customer Controls (Customer only):**
+    - Customer-specific controls encompass service and communications protection, as well as zone security, which may require routing or zoning data within specific security environments.
 
-You are responsible for your data and applications. Application Data including encryption options. Security configuration - rotating credentials, APIs, VPC access etc. Patching guest operating system of EC2 instances. IAM - application security, identity and access management for systems. Network traffice - you are responsible for it including group firewall configuration.
+![AWS Shared Responsibility Model Layers](https://img.alicdn.com/tfs/TB1WyglO7voK1RjSZFwXXciCFXa-2305-1450.png)
 
+## Customer Responsibilities
+Your responsibilities as an AWS customer encompass:
 
-### Report AWS abuse resource
-Rotate your keys and change your password, then contact the AWS Trust & Safety team using the Report Amazon AWS abuse form.
+- **Data and Application Security:**
+    - Ensuring the security of your data and applications, including encryption options and proper security configurations.
+  
+- **Identity and Access Management (IAM):**
+    - Managing IAM for application security and controlling identity and access for your systems.
 
+- **Network Traffic and Firewall Configuration:**
+    - Managing network traffic and configuring group firewall settings.
 
-##  [BACK](./05-AWS_Core_Services.md)  |  [NEXT](./03-AWS_Security_Best_Practices.md)
+- **Patching and Maintenance:**
+    - Regularly patching guest operating systems of EC2 instances and maintaining the security of your AWS resources.
+
+## Report AWS Abuse
+If you suspect any abuse of AWS resources, take the following steps:
+
+1. **Rotate Keys and Change Passwords:** Ensure that your AWS access keys and passwords are up to date and secure.
+2. **Contact the AWS Trust & Safety Team:** Report the abuse to the AWS Trust & Safety team using the [Report Amazon AWS abuse form](https://aws.amazon.com/premiumsupport/knowledge-center/report-aws-abuse/).
+
+By understanding and fulfilling your responsibilities within the AWS shared responsibility model, you can help maintain the security and compliance of your cloud environment.
+
+[BACK](./05-AWS_Core_Services.md) | [NEXT](./03-AWS_Security_Best_Practices.md)
