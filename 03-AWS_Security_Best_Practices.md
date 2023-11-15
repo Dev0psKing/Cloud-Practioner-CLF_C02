@@ -90,7 +90,7 @@ Use the search feature for easy access.
     * Automate vulnerability management at scale in EC2, Lambda and ECR container images and network exposure.
     * Automated vulnerability management service that continually scans workloads for software vulnerabilities and unintended network exposure. EC2.
     * Use cases: Quickly discover vulnerabilities in compute workloads. Prioritize patch remediation. Meet compliance requirements. Identify zero-day vulnerabilities sooner.
-1. [Artifact](https://aws.amazon.com/artifact/) Compliance Report
+1. [Artifact](https://aws.amazon.com/artifact/) Compliance Report.
     * Access Independent Software Vendor compliance report.
     * Use artifact to SOC and PCI compliance reports. You can generate the report. Access to the report can be provided. Self-service portal.
 1. [Cognito](https://aws.amazon.com/cognito/) CIAM
