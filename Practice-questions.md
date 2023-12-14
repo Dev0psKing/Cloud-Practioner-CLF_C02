@@ -48,7 +48,7 @@
    - **Much More!**
 4. Questions are similar to the actual exam, without duplications (like in other courses ;-)).
 5. The Practice Tests Exams simulate the actual exam's content, timing, and percentage required to pass the exam.
-6. This course is **not** a Amazon Web Services Certified (AWS Certified) Cloud Practitioner (CLF-C01) Exam Dump. Some people use brain dumps or exam dumps, but that's absurd, which we don't practice.
+6. This course is **not** a Amazon Web Services Certified (AWS Certified) Cloud Practitioner (CLF-C02) Exam Dump. Some people use brain dumps or exam dumps, but that's absurd, which we don't practice.
 7. 597 **unique** questions.
 
 ## ☝️ Course Updates
@@ -79,7 +79,7 @@
 
 **[v1.2.0](../../releases/tag/v1.2.0): October 2, 2023.**
 
-- Add 2 new questions and fix 6 questions with incorrect answers.
+- Add 2 new questionsquestions.
 
 ## 🙋‍♀️ & 🙋‍♂️ Contribution
 
