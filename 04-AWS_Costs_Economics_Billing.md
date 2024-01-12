@@ -5,7 +5,7 @@ _16% of the exam_questions about 8-10 questions_
 * [EC2 Instances](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-purchasing-options.html) are [priced](https://aws.amazon.com/ec2/pricing/) as follows
     * On-Demand: EC2 capacity billed to the second.
         * Pay for what you use.
-        * Use case: Applications are under development, workloads are not expected to run for more than a year, no upfront payment or long-term committment, unpredictable workloads but don't want to be interrupted.
+        * Use case: When Applications are under development, or workloads are not expected to run for more than a year, no upfront payment or long-term committment, unpredictable workloads but don't want to be interrupted.
         * On-Demand Capacity Reservation: It is possible to buy upfront capacity to mitigate against capacity contraints in an availability zone (AZ).
     * Spot: unused EC2 capacity on sale.
         * Pay the least but no guarantee of runtimes or interruptions. A 2-minute warning is provided via instance meta-data that your application should check for and prepare for shutdown.
