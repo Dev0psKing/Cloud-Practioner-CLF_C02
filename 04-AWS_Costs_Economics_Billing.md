@@ -111,6 +111,7 @@ _16% of the exam_questions about 8-10 questions_
     1. [AWS License Manager](https://aws.amazon.com/license-manager/)
         * AWS and on-premise license manager.
         * Fine-tune your license costs.
+
  
 
  ## [Support Plans](https://aws.amazon.com/premiumsupport/plans/)
