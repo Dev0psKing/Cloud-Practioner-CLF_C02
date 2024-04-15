@@ -401,6 +401,7 @@ Skills in:
     1. [DigitalCloud Exam Simulator:](https://learn.digitalcloud.training/exams/exam-simulation-for-aws-cloud-practitioner/)
 1. [YouTube freeCodeCamp](https://www.youtube.com/watch?v=SOTamWNgDKc) freeCodeCamp video is good to review to ensure a full understanding of the broader scope.
 1. AWS training and certification has CLF-001 sample exam questions [here](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Sample-Questions.pdf)
+2. [Study4Exam Practice Test](https://www.study4exam.com/amazon/free-clf-c02-questions/) Collection of 612 practice questions covering all core exam topics comprehensively.
 
 _Out of scope:_ Business Applications, design, code, implementation, troubleshooting, migration, load testing etc.
 <img src="./assets/pexels-prateek-katyal-6298482.jpg" width="350px"/>
