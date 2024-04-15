@@ -387,7 +387,7 @@ Skills in:
 - [AWS Certified Cloud Practitioner Practice Exams](https://portal.tutorialsdojo.com/courses/aws-certified-cloud-practitioner-practice-exams/)
 
 
-## More Resources
+## More Resources 
 
 1. [AWS Certified Cloud Practioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) AWS Homepage for CPC certification. Download sample questions and the exam guide. 
 1. [AWS Web Services Overiew](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html?did=wp_card&trk=wp_card) : Whitepaper that describes the full offering from AWS. This is an important paper to read and remember before the test.
