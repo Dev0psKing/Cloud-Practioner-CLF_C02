@@ -1,5 +1,6 @@
 # The Value of AWS Cloud
 
+
 Amazon Web Services (AWS) offers a multitude of advantages over traditional, internally managed data centers. Here's an improved presentation of these benefits:
 
 ### Benefits of AWS Cloud
