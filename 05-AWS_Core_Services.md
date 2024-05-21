@@ -7,6 +7,7 @@ AWS offers [Trusted Advisor](https://aws.amazon.com/premiumsupport/technology/tr
  For example, a web-based enterprise application will utilize most if no all the layers and select technologies.
 ## Architecture
 
+
 1. [Elasticity](https://www.ibm.com/cloud/blog/cloud-elasticity-vs-cloud-scalability): The ability to add or remove resources based on demand.
 1. [Scalability](https://resources.sei.cmu.edu/asset_files/TechnicalNote/2006_004_001_14681.pdf): Scalability is the ability to handle increased workload by repeatedly applying a cost-effective strategy for extending a system’s capacity
 1. [Fault Tolerance](https://en.wikipedia.org/wiki/Fault_tolerance): Is the property that enables a system to continue operating properly in the event of a failure of one or more faults withing some if its components.
