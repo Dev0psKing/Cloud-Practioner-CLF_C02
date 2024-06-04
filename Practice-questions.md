@@ -4,7 +4,6 @@
 
 ## ⌛️ Services Covered
 
-
    - Access Control;
    - Amazon Aurora;
    - Amazon CloudFront;
