@@ -5,7 +5,6 @@ Good Luck with the AWS Cloud Practitioner Certification Exam!
 I passed the AWS CCP with few days of review and without spending any money other than 
 the exam cost. I developed these notes for those who are trying to get into Cloud. If you're on github and looking for this type of content - that's great!
 
-
 ![](./assets/aws-ccp-score.png)
 <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png"/>
 These are great certification preparation notes for the AWS Cloud Practitioner Certification CLF-C02 in 2023. 
