@@ -1,4 +1,3 @@
-
 # AWS Costs, Economics and Billing Practices
 
 _16% of the exam_questions about 8-10 questions_
