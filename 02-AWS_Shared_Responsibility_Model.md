@@ -8,7 +8,6 @@ As an AWS customer, understanding the shared responsibility model is essential. 
 
 **AWS has the responsibility OF the cloud. The customer has responsibilities IN the cloud.**
 
-
 ## AWS Responsibilities
 As an AWS customer, you are not responsible for the hardware, software, networking, and facilities that support AWS Cloud services across its regions, availability zones (AZs), data centers, and edge locations. AWS shoulders the following key responsibilities:
 
