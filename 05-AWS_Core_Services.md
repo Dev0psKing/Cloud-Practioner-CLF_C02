@@ -13,7 +13,6 @@ AWS offers [Trusted Advisor](https://aws.amazon.com/premiumsupport/technology/tr
 1. [High Availability](https://redis.com/blog/high-availability-architecture/): Property of a system to serve the business without failure over a given period of time.
 1. [Principle of least priviledge](https://www.cisa.gov/uscert/bsi/articles/knowledge/principles/least-privilege): Every program and every user of the system should operate using the least set of privileges necessary to complete the job. Primarily, this principle limits the damage that can result from an accident or error.
 
-
 ## Billing
 1. [AWS Organization](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_introduction.html)
     * Account management services that enables you to consolidate multiple AWS Accounts into an organization that you create and centrally manage.
