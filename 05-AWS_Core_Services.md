@@ -231,7 +231,7 @@ AWS offers [Trusted Advisor](https://aws.amazon.com/premiumsupport/technology/tr
 1. [Comprehend](https://aws.amazon.com/comprehend/): NLP
     * Natural Language Processing (NLP) Service that finds relationships in text
     * Customer sentiment analysis on social media
-1. [Polly](https://aws.amazon.com/polly/): Speech-to-text
+1. [Polly](https://aws.amazon.com/polly/): Text-to-Speech
     * High quality natural sounding human voices in dozens of languages.
     * Customize Text to speech output with Speech Synthesis Markup Language tags.
     * Usecases: Generate speech in dozens of languages, engage customers with a natural-sounding voice, adjust speaking style, speech rate, pitch and loudness.
