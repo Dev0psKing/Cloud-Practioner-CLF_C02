@@ -76,7 +76,7 @@ Use the search feature for easy access.
     * Receive real-time notifications of suspected DDoS incidents via CloudWatch metrics and assistance from AWS during the attack.
     * Automatically scrub bad traffic at specific layers: layer 3,4 and 7. Minimize application downtime and latency. Monitor and protect up to 1000 resource types.
 1. [Macie](https://aws.amazon.com/macie/) Sensitive Data
-    * hHelps you discover and protect sensitive data. Uses maching learning, evaluates S3 environment, uncovers PII information. 
+    * Helps you discover and protect sensitive data. Uses maching learning, evaluates S3 environment, uncovers PII information. 
     * Use cases: discover passport numbers stored on S3 using Macie. Find SSNs in S3 files.
 1. [Config](https://aws.amazon.com/config/) Audit config
     * Assess, audit, and evaluate configurations of your resources.
@@ -111,7 +111,7 @@ Use the search feature for easy access.
     * Use case: Generate and use cryptographic keys on dedicated FIPS 140-2 Level 3 single-tenant HSM instances. Deploy workloads with high reliability and low latency, and help meet regulatory compliance. Pay by the hour, and backup and shut down HSMS when they're not needed. Manage HSM capacity and control your costs by adding and removing HSMs from your cluster.
 1. [Secrets Manager](https://aws.amazon.com/secrets-manager/) Secrets Management
     * Use cases: Store secrets securely, manage acess with fine-grained policies, automate secrets rotation, audit and monitor secrets usage.
-    * Database credentials, API keys, encrypt secrets at rest, integreates with RDS, DOcumentDB, Redshift.
+    * Database credentials, API keys, encrypt secrets at rest, integreates with RDS, DocumentDB, Redshift.
     * Retrieve database credentials needed for your application code.  Secrets Manager allows you to retrieve database credentials with a call to Secrets Manager APIs, removing the need to hardcode sensitive information in plain text within your application code.
 1. [AWS Certificate Manager](https://aws.amazon.com/certificate-manager/) Certificate Manager
     * Provisiong public and private certificats for free.

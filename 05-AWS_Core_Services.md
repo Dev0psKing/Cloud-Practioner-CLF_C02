@@ -100,7 +100,7 @@ AWS offers [Trusted Advisor](https://aws.amazon.com/premiumsupport/technology/tr
     * SSH securly connects with a key pair. SSH Client uses private key, the EC2 instance uses a public key
     * EIC is EC2 Instance Connect - uses IAM polices to control SSH access to your instances 
     * AWS Systems Manager- use a web browser, or AWS CLI to manage EC2 instances directly
-1. [ELB](https://aws.amazon.com/elasticloadbalancing/): Block Storage
+1. [ELB](https://aws.amazon.com/elasticloadbalancing/): Elastic Load Balancer
     * Distribute network traffic to improve application scalability.
     * Elastic Load  Balancing and Auto-Scaling is offered by EC2.
     * Automatically distribute load across servers - classic, application, gateway and network load balancers.    
@@ -160,7 +160,6 @@ AWS offers [Trusted Advisor](https://aws.amazon.com/premiumsupport/technology/tr
 
 ## Data Migration and Transfer
 1. [Database Migration Service](https://aws.amazon.com/dms/)
-    * 
     * [Feature rich tool](https://aws.amazon.com/dms/features/) that helps you migrate databases to or within AWS.
     * Homogenous and hetrogenous databases can be migrated with virtually no downtime.
     * Data is synchronized between the source and target continuously.
@@ -173,7 +172,6 @@ AWS offers [Trusted Advisor](https://aws.amazon.com/premiumsupport/technology/tr
 1. [Snow Family](https://aws.amazon.com/snow/)
     * Move large amounts of data to and from AWS physically or process data at the edge.
     * Snowcone: Smallest member holds 8TB of usable storage, collect process
-    * 
     * Snowball: 80TB. Cheaper And Snowball Edge used for petabyte scale data migration and has local processing when in a remote environment - supports EC2 and lambda. 
     * Snowmobile: 100PB. Multi-perabyte or exabyte scale. Data loaded to S3 - securely transported with escort vehicle.
 1. [Data Sync](https://docs.aws.amazon.com/datasync/latest/userguide/what-is-datasync.html) Data Transfer Service
@@ -187,7 +185,6 @@ AWS offers [Trusted Advisor](https://aws.amazon.com/premiumsupport/technology/tr
     * Use case: Data consolidation. Run a database when it doesn't require CRUD.
     * Analytics - allows querying to gain business insights.
 1. [Glue](https://aws.amazon.com/glue/) : ETL
-    * 
     * Discover, prepare, and integrate all your data at any scale.
     * ETL Service.
     * Prepare to better understand your data.
@@ -212,7 +209,6 @@ AWS offers [Trusted Advisor](https://aws.amazon.com/premiumsupport/technology/tr
     * Usecase: Perform big data analytics, build scalable data piplelines, process real-time data streams, accelerate data science and ML adoption.
 2. [OpenSearch](https://aws.amazon.com/opensearch-service/) Interactive Log Analytics
     * Search petabytes of unstructured data.
-    * 
     * Open source Elastic Search, Open Search Dashboard and Kibana.
 
 ## Streams
@@ -331,7 +327,7 @@ AWS offers [Trusted Advisor](https://aws.amazon.com/premiumsupport/technology/tr
     * Enables CI-CD
     * Produces build artifacts ready to be deployed
 1. [CodeDeploy](https://aws.amazon.com/codedeploy/) : Delivery Server
-    * Automate code edeployment to maintain application uptime.
+    * Automate code deployment to maintain application uptime.
     * Manage the deployment of code to on-premises as well as cloud.
     * Use prepackaged build environments or your own, and encrypt artifacts with your own keys.
     * Maintain application uptime, deploy to EC2, lambda, fargate and others.
