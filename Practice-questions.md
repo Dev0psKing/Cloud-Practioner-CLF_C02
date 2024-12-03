@@ -4670,7 +4670,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] Amazon EBS.
 - [x] Amazon Connect.
-- [ ] AWS Storage Gateway AWS CLOUD PRACTITIONER DUMPS.
+- [ ] AWS Storage Gateway
 - [x] Amazon CloudFront.
 - [ ] AWS Direct Connect.
 
