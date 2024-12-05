@@ -4349,8 +4349,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Which AWS service delivers data, videos, applications, and APIs to users globally with low latency and high transfer speeds?
 
 - [ ] Amazon Route 53.
-- [x] Amazon Connect.
-- [ ] Amazon CloudFront.
+- [ ] Amazon Connect.
+- [x] Amazon CloudFront.
 - [ ] Amazon EC2.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -4530,9 +4530,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Which of the following are pillars of the AWS Well-Architected Framework? (Select TWO)
 
 - [ ] Multiple Availability Zones.
-- [ ] Performance efficiency.
+- [x] Performance efficiency.
 - [x] Security.
-- [x] Encryption usage.
+- [ ] Encryption usage.
 - [ ] High availability.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -4670,7 +4670,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] Amazon EBS.
 - [x] Amazon Connect.
-- [ ] AWS Storage Gateway AWS CLOUD PRACTITIONER DUMPS.
+- [ ] AWS Storage Gateway
 - [x] Amazon CloudFront.
 - [ ] AWS Direct Connect.
 
