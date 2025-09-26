@@ -1,5 +1,6 @@
 # AWS Core Services (and concepts)
  The following concepts and list of AWS Core Services are essential to understand various layers of an architecture.
+
 AWS offers [Trusted Advisor](https://aws.amazon.com/premiumsupport/technology/trusted-advisor/) tool to business and higher subscriptions.
     * Provides recommendations that help you follow AWS best practices.
     * Benefits: cost optimization, performance, security, fault tolerance and service quotas.
