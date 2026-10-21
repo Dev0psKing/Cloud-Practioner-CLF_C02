@@ -5,6 +5,7 @@ AWS offers [Trusted Advisor](https://aws.amazon.com/premiumsupport/technology/tr
     * Provides recommendations that help you follow AWS best practices.
     * Benefits: cost optimization, performance, security, fault tolerance and service quotas.
 
+
  For example, a web-based enterprise application will utilize most if no all the layers and select technologies.
 ## Architecture
 
