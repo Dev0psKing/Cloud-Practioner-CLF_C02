@@ -29,6 +29,7 @@ Use the search feature for easy access.
     * Programmatic access provides access to your AWS resources.
 * AWS SDK - can be leveraged to make changes to the environment via programmatic access. 
 
+
 # Concepts
 
 1. Authentication
